@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Golos Text';
+    src: local('Golos Text Regular'), local('Golos-Text-Regular'),
+        url('GolosText-Regular.woff2') format('woff2'),
+        url('GolosText-Regular.woff') format('woff'),
+        url('GolosText-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
